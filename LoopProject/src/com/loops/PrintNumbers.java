@@ -12,6 +12,7 @@ public class PrintNumbers {
 		
 		System.out.println("Enter the size:");
 		int n= sc.nextInt();
+		int m = sc.nextInt();
 		
 		for(int i=1;i<=n;i++)
 		{
